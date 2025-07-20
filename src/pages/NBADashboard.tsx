@@ -38,7 +38,6 @@ const translations = {
     points: "PTS",
     assists: "AST",
     rebounds: "REB",
-    rating: "Rating",
     rank: "Rank",
     // Positions
     pointGuard: "Point Guard",
@@ -81,7 +80,6 @@ const translations = {
     language: "言語",
     overview: "概要",
     scoring: "得点リーダー",
-    rating: "ESPNレーティング",
     teams: "チーム分析",
     totalPlayers: "総選手数",
     avgPoints: "平均得点",
